@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor solution](https://www.frontendmentor.io/solutions/nft-card-using-scss-Hnee-0mIY)
+- Live Site URL: [Live website](https://your-live-site-url.com)
 
 ## Built with
 
@@ -39,4 +39,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@wikxn](https://www.frontendmentor.io/profile/wikxn)
