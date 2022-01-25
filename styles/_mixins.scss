@@ -1,0 +1,12 @@
+@mixin pageText($fontWeight:400, $fontSize:18px) {
+  font-family: $mainFont;
+  font-weight: $fontWeight;
+  font-size: $fontSize;
+}
+
+@mixin flex($direction:row, $align:center, $justify:center) {
+  display: flex;
+  flex-direction: $direction;
+  align-items: $align;
+  justify-content: $justify;
+}
